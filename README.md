@@ -1,4 +1,4 @@
-# :star_struck: Hacktoberfest_2020 :star_struck:
+# :star_struck: Hacktoberfest2020in600secs :star_struck:
 ![](https://github.com/chandrikadeb7/Hacktoberfest_2020/blob/main/readme%20pic.jpeg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -11,7 +11,7 @@
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
 
-:point_right: Repo Link : [https://github.com/chandrikadeb7/Hacktoberfest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020)
+:point_right: Repo Link : [https://github.com/Darkknight698/Hactober2020in600s](https://github.com/Darkknight698/Hactober2020in600s)
 
 ## What is Hacktoberfest? :thinking:
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
