@@ -26,23 +26,34 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 Here are 3 quick and easy ways to contribute to this project:
 
-## Task 1: [Add your program question and solution](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
-Add any programming question and its solution in a separate folder and make your way to Open Source.
+## Task 1: [Add your programs in a language you are comfortable with](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
+Add any program in its respective language folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
 
 ```
-<name of program>/
-├── question.md
-├── <solution> (Solution file in any language including C/Java/Python etc.)
+<name of program-language>/
+├── program-name.ext(.ext refers to extension of your pgming language for eg:if python you write sort.py for other languages viceversa)
 ```
 
 :eyes: Upload your contribution here in this folder [Task 1](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201)
 
-## Task 2: [Submit your Own portfolio page](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
+## Task 2: [Show Your Algorithm Skills](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203) :rocket:
+Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
+:star: The file structure will be as follows:
+
+```
+<language-name>/
+├── <implementation file> (With commented sample input/output. In any language including C/Java/Python etc.)
+```
+
+:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203)
+## Task 3: [Submit your Own portfolio page](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
 Host your very own portfolio page in minutes and share with us to get nearer to swags
 
-You can take help from one of my blogs :point_right: [Visit Blog](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)
+You can take help from one of the videos 
+:point_right: [Tutorial video-1](https://www.youtube.com/watch?v=4XmhtbcMWEY)
+:point_right: [Tutorial video-2](https://www.youtube.com/watch?v=KgRENOnSCxE&t=1473s)
 
 :star: The file structure will be as follows:
 
@@ -51,20 +62,29 @@ You can take help from one of my blogs :point_right: [Visit Blog](https://medium
 ├── <all files/folders> (In any language including C/Java/Python etc.)
 ```
 
-:eyes: Upload your contribution here in this folder [Task 2](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
+:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
 
-## Task 3: [Show Your Algorithm Skills](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203) :rocket:
-Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
+
+## Task 4: [Create a project with your suitable language](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
+Create a project with the language you are most comfortable with and upload it here.
+
+Refer this website which contains resources like youtube video which you have to watch ,learn and make project with the helpof those videos and
+upload your code in that folder.
+:point_right: [Tutorial video-1](https://www.youtube.com/watch?v=4XmhtbcMWEY)It has project ideas in different programming languages so that you can choose the one in which you are most comfortable and start making projects in it.
+
 :star: The file structure will be as follows:
 
 ```
-<algorithm name>/
-├── <implementation file> (With commented sample input/output. In any language including C/Java/Python etc.)
+<programming-language>/(In any language including C/Java/Python etc.)
+├── <your_project_name> 
+├── <all files/folders> 
 ```
 
-:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203)
+:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
 
-## Choose one or all 3, make a pull request for your work and wait for it to be merged! :heart:
+
+
+## Choose one or all 4, make a pull request for your work and wait for it to be merged! :heart:
 
 
 ## Steps to follow :scroll:
