@@ -36,7 +36,7 @@ Add any program in its respective language folder and make your way to Open Sour
 ├── program-name.ext(.ext refers to extension of your pgming language for eg:if python you write sort.py for other languages viceversa)
 ```
 
-:eyes: Upload your contribution here in this folder [Task 1](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201)
+:eyes: Upload your contribution here in this folder [Task 1](https://github.com/Darkknight698/Hacktoberfest_2020/tree/main/Task%201)
 
 ## Task 2: [Show Your Algorithm Skills](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task2) :rocket:
 Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
