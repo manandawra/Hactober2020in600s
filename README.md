@@ -26,7 +26,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 Here are 3 quick and easy ways to contribute to this project:
 
-## Task 1: [Add your programs in a language you are comfortable with](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
+## Task 1: [Add your programs in a language you are comfortable with](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task1) :innocent:
 Add any program in its respective language folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
@@ -38,7 +38,7 @@ Add any program in its respective language folder and make your way to Open Sour
 
 :eyes: Upload your contribution here in this folder [Task 1](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201)
 
-## Task 2: [Show Your Algorithm Skills](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203) :rocket:
+## Task 2: [Show Your Algorithm Skills](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task2) :rocket:
 Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
 :star: The file structure will be as follows:
 
@@ -47,8 +47,8 @@ Help us in making a one-stop place to find necessary codes and articles, which c
 ├── <implementation file> (With commented sample input/output. In any language including C/Java/Python etc.)
 ```
 
-:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203)
-## Task 3: [Submit your Own portfolio page](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
+:eyes: Upload your contribution here in this folder [Task 2](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task2)
+## Task 3: [Submit your Own portfolio page](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task3) :eyes:
 Host your very own portfolio page in minutes and share with us to get nearer to swags
 
 You can take help from one of the videos 
@@ -62,10 +62,10 @@ You can take help from one of the videos
 ├── <all files/folders> (In any language including C/Java/Python etc.)
 ```
 
-:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
+:eyes: Upload your contribution here in this folder [Task 3](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task3)
 
 
-## Task 4: [Create a project with your suitable language](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
+## Task 4: [Create a project with your suitable language](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task4) :eyes:
 Create a project with the language you are most comfortable with and upload it here.
 
 Refer this website which contains resources like youtube video which you have to watch ,learn and make project with the helpof those videos and
@@ -80,7 +80,7 @@ upload your code in that folder.
 ├── <all files/folders> 
 ```
 
-:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
+:eyes: Upload your contribution here in this folder [Task 4](https://github.com/Darkknight698/Hactober2020in600s/tree/main/Task4)
 
 
 
@@ -96,9 +96,9 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020) by using the <a href="https://github.com/chandrikadeb7/Hacktoberfest_2020/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/chandrikadeb7/Hacktoberfest_2020/new/master?readme=1#fork-destination-box) at top-right of your screen.
+You can get your own fork/copy of [Hactober2020in600s](https://github.com/Darkknight698/Hactober2020in600s) by using the <a href="https://github.com/Darkknight698/Hactober2020in600s/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/Darkknight698/Hactober2020in600s/new/master?readme=1#fork-destination-box) at top-right of your screen.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/chandrikadeb7/Hacktoberfest_2020)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Darkknight698/Hactober2020in600s)
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -108,16 +108,16 @@ You can get your own fork/copy of [HacktoberFest_2020](https://github.com/chandr
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/Hacktoberfest_2020.git
+$ git clone https://github.com/Your_Username/Hactober2020in600s.git
 ```
 
 > This makes a local copy of the repository in your machine.
 
-Once you have cloned the `Hacktoberfest_2020` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+Once you have cloned the `Hactober2020in600s` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
-# This will change directory to a folder Hacktoberfest_2020
-$ cd Hacktoberfest_2020
+# This will change directory to a folder Hactober2020in600s
+$ cd Hactober2020in600s
 ```
 
 Move to this folder for all other commands.
@@ -128,14 +128,14 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin  https://github.com/Your_Username/Hacktoberfest_2020.git (push)
+origin  https://github.com/Your_Username/Hactober2020in600s.git (fetch)
+origin  https://github.com/Your_Username/Hactober2020in600s.git (push)
 ```
 
-Now, let's add a reference to the original [Hacktoberfest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020/) repository using
+Now, let's add a reference to the original [Hactober2020in600s](https://github.com/Darkknight698/Hactober2020in600s) repository using
 
 ```sh
-$ git remote add upstream https://github.com/chandrikadeb7/Hacktoberfest_2020.git
+$ git remote add upstream https://github.com/Darkknight698/Hactober2020in600s.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -144,18 +144,18 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (push)
-upstream  https://github.com/Remote_Username/Hacktoberfest_2020.git (fetch)
-upstream  https://github.com/Remote_Username/Hacktoberfest_2020.git (push)
+origin    https://github.com/Your_Username/Hactober2020in600s.git (fetch)
+origin    https://github.com/Your_Username/Hactober2020in600s.git (push)
+upstream  https://github.com/Remote_Username/Hactober2020in600s.git (fetch)
+upstream  https://github.com/Remote_Username/Hactober2020in600s.git (push)
 ```
 `In your case, you will see`
 ```sh
 $ git remote -V
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (push)
-upstream  https://github.com/chandrikadeb7/Hacktoberfest_2020.git (fetch)
-upstream  https://github.com/chandrikadeb7/Hacktoberfest_2020.git (push)
+origin    https://github.com/Your_Username/Hactober2020in600s.git (fetch)
+origin    https://github.com/Your_Username/Hactober2020in600s.git (push)
+upstream  https://github.com/chandrikadeb7/Hactober2020in600s.git (fetch)
+upstream  https://github.com/chandrikadeb7/Hactober2020in600s.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -173,7 +173,7 @@ $ git checkout master
 # Reset local `master` branch to match the `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `Hacktoberfest_2020` repo
+# Push changes to your forked `Hactober2020in600s` repo
 $ git push origin master
 ```
 
@@ -223,12 +223,6 @@ $ git push -u origin BranchName
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-## Awesome contributors :star_struck:
-<a href="https://github.com/chandrikadeb7/Hacktoberfest_2020/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=chandrikadeb7/Hacktoberfest_2020" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
 
 ## Help Contributing Guides :crown:
 
