@@ -154,8 +154,8 @@ upstream  https://github.com/Remote_Username/Hactober2020in600s.git (push)
 $ git remote -V
 origin    https://github.com/Your_Username/Hactober2020in600s.git (fetch)
 origin    https://github.com/Your_Username/Hactober2020in600s.git (push)
-upstream  https://github.com/chandrikadeb7/Hactober2020in600s.git (fetch)
-upstream  https://github.com/chandrikadeb7/Hactober2020in600s.git (push)
+upstream  https://github.com/Darkknight698/Hactober2020in600s.git (fetch)
+upstream  https://github.com/Darkknight698/Hactober2020in600s.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -179,7 +179,7 @@ $ git push origin master
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/chandrikadeb7/Hacktoberfest_2020/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/Darkknight698/Hacktoberfest_2020/pulls).
 
 ### 6. Create a new branch :bangbang:
 
