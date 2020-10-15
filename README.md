@@ -1,5 +1,5 @@
 # :star_struck: Hacktoberfest2020in600secs :star_struck:
-![](https://github.com/chandrikadeb7/Hacktoberfest_2020/blob/main/readme%20pic.jpeg)
+![](https://github.com/Darkknight698Chamged some/Hacktoberfest_2020/blob/main/readme%20pic.jpeg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
