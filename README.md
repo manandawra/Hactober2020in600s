@@ -2,7 +2,7 @@
 ![](https://github.com/chandrikadeb7/Hacktoberfest_2020/blob/main/readme%20pic.jpeg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+[![Hacktoberfest 2020](https://img.shields.io/github/hacktoberfest/2020/Darkknight698/Hactober2020in600s?color=green&label=Hacktober%20Fest%20-%202020&logo=digitalocean&logoColor=white)](https://hacktoberfest.digitalocean.com)
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
 :star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
