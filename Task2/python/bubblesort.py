@@ -1,15 +1,15 @@
-def bubbleSort(ar):
+def bubbleSort(arr):
    n = len(arr)
    # Traverse through all array elements
    for i in range(n):
-   # Last i elements are already in correct position
-   for j in range(0, n-i-1):
-      # Swap if the element found is greater than the next element
-      if ar[j] > ar[j+1] :
-         ar[j], ar[j+1] = ar[j+1], ar[j]
+       # Last i elements are already in correct position
+       for j in range(0, n-i-1):
+           # Swap if the element found is greater than the next element
+           if arr[j] > arr[j+1] :
+               arr[j], arr[j+1] = arr[j+1], arr[j]
 # Driver code to test above
-ar = ['t','u','t','o','r','i','a','l']
-bubbleSort(ar)
+arr = ['t','u','t','o','r','i','a','l']
+bubbleSort(arr)
 print ("Sorted array is:")
-for i in range(len(ar)):
-   print (ar[i])
+for i in range(len(arr)):
+    print (arr[i])
