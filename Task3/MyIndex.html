@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Responsive Website Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Portfolio</a>
+        <div class="toggle"></div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Education</a></li>
+            <li><a href="#">Skills</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </header>
+    <section class="banner">
+        <div class="textBx">
+            <h2>Hello, I'm<br><span> Manan </span></h2>
+            <h3>I'm a Computer Science Engineering student</h3>
+            <a href="#" class="btn">About me</a>
+        </div>
+    </section>
+    <section class="about">
+        <div class="heading">
+            <h2>About Me</h2>
+        </div>
+        <div class="content">
+        <div class="contentBx w50">
+            <h3>I'm a Computer Science Engineering student.</h3>
+            <p>Prefinal year student participating in hactober 2020.</p>
+        </div>
+        <div class="w50">
+            <img src="">
+        </div>
+        </div>
+    </section>
+    <section class="education">
+        <div class="heading">
+            <div class="content">
+                <div class="educationBx">
+                    <h2>Education</h2>
+            <p>High School: S.d. public School.
+                College: Chandigarh University.
+            </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="skills">
+        <div class="heading">
+            <h2>My Skills</h2>
+            <div class="content">
+                <div class="skillsBx">
+                    <p>.Playing table tennis , Cooking.</p>
+            </div>
+                </div>
+        </div>
+    </section>
+    <section class="contact">
+        <div class="heading ">
+            <h2>Contact Me</h2>
+            <div class="content">
+                <div class="contactInfo">
+                    <h3>Contact Info</h3>
+                    <div class="box">
+                        <div class="icon">
+                            <div class="text">
+                                <h3>Address</h3>
+                                <p>kharar banur highway,<br>landran,<br>140307</p> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="icon">
+                            <div class="text">
+                                <h3>Phone No</h3>
+                                <p>9897396336 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="icon">
+                            <div class="text">
+                                <h3>Email</h3>
+                                <p>manandawra@gmail.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script type="text/javascipt">
+    window.addEventListener('scroll',function()(
+        var header= document.querySelector('header');
+        header.classlist.toggle('sticky',window,scrollY > 0);
+    ))</script>
+</body>
+</html>
