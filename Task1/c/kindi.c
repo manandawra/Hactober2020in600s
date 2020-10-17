@@ -1,12 +1,12 @@
 #include<stdio.h>  
 int main()    
 {    
- int i,fact=1,number;    
+ int i,fact=1,n;    
  printf("Enter a number: ");    
-  scanf("%d",&number);    
-    for(i=1;i<=number;i++){    
+  scanf("%d",&n;    
+    for(i=1;i<=n;i++){    
       fact=fact*i;    
   }    
-  printf("Factorial of %d is: %d",number,fact);    
+  printf("The factorial of number %d is: %d",n,fact);    
 return 0;  
 }   
