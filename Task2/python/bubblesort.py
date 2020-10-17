@@ -10,6 +10,6 @@ def bubbleSort(ar):
 # Driver code to test above
 ar = ['t','u','t','o','r','i','a','l']
 bubbleSort(ar)
-print ("Sorted array is:")
+print (" Final Array :")
 for i in range(len(ar)):
    print (ar[i])
